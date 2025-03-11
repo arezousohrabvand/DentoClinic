@@ -5,24 +5,12 @@
             "src": "dental/wsgi.py",
             "use": "@vercel/python",
             "config": {
-                "runtime": "python3.9",
-                "maxLambdaSize": "15mb"
-            }
-        },
-        {
-            "src": "build_files.sh",
-            "use": "@vercel/static-build",
-            "config": {
-                "distDir": "staticfiles",
+                "maxLambdaSize": "15mb",
                 "runtime": "python3.9"
             }
         }
     ],
     "routes": [
-        {
-            "src": "/static/(.*)",
-            "dest": "/static/$1"
-        },
         {
             "src": "/(.*)",
             "dest": "dental/wsgi.py"
