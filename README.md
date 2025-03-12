@@ -18,6 +18,15 @@ Dento Clinic is a modern, web-based dental practice management system built with
 - Bootstrap
 - JavaScript/jQuery
 
+![Image](https://github.com/user-attachments/assets/3d41407e-abe6-46c0-93a3-17df2207ea4d)
+![Image](https://github.com/user-attachments/assets/2093f95f-aaff-4002-92a9-0b2d9e459fce)
+![Image](https://github.com/user-attachments/assets/f373043d-fa6d-41ee-a1bc-437f1f0d5b3a)
+![Image](https://github.com/user-attachments/assets/601ad64f-0593-4b7d-a985-f266e77e39a3)
+![Image](https://github.com/user-attachments/assets/16dbdfa6-a155-4ab3-af2b-233c7fb53ba1)
+![Image](https://github.com/user-attachments/assets/9ff6ac1c-a753-4db3-8396-5cb90190b7c0)
+![Image](https://github.com/user-attachments/assets/a294ed4e-8f0f-4c9d-8999-03eed7ce5c26)
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
